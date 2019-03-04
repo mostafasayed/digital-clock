@@ -1,0 +1,36 @@
+.clock-frame {
+    fill: none;
+    stroke: #000;
+    stroke-width: 6;
+}
+.clock-text {
+    font-size: 60px;
+    fill: #f00c;
+    text-align: center;
+}
+
+.format-frame {
+    fill: none;
+    stroke: #000;
+    stroke-width: 6px;
+}
+.format-text {
+    font-size: 56px;
+    fill: #f00c;
+    text-align: center;
+}
+
+.twenty-four-hour {
+    stroke: #d7d7d7;
+    stroke-width: 10px;
+}
+
+.twelve-hour {
+    stroke: #d7d7d7;
+    stroke-width: 10px;
+}
+
+.hour-text {
+    font-size: 30px;
+    fill: #2d2de7;
+}
